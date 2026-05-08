@@ -1,0 +1,6 @@
+{
+  "name": "GlaucoVision AI",
+  "description": "Retinal fundus image analysis for Glaucoma identification using machine learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["image_processing", "machine_learning"]
+}
